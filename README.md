@@ -1,9 +1,9 @@
 ### Olá, eu sou o Matheus! 👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte Técnico e estou iniciando em Desenvolvimento Mobile!
+- 🔭 Atualmente trabalho como Analista de Suporte Técnico e Desenvolvedor!
 - 🌱 Formado em Ciência da Computação
+- ❤️ Entusiasta de Inteligência Artificial
 - 📫 Entre em contato comigo através do email: matheusmlc.mlc@gmail.com
-- 😄 Pronomes: ele/dele
 - 💚⚽ S.E.Palmeiras
 <br>
 <div>
