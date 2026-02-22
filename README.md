@@ -65,7 +65,7 @@ https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-stu
 
 ---
 
-## ⚙️ Tech Stack
+<!--## ⚙️ Tech Stack
 
 **Languages**
 - TypeScript
@@ -87,7 +87,7 @@ https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-stu
 - AI-CLI
 - Structured Prompt Engineering
 
----
+--- -->
 
 ## 🧭 Engineering Philosophy
 
