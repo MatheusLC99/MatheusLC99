@@ -65,6 +65,20 @@ https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-stu
 
 ---
 
+### 🚛 ANTT Freight Floor Calculator
+Web application that integrates with the official ANTT calculator to simulate the minimum legal freight floor based on real transport parameters.
+
+- Next.js full-stack architecture
+- Secure server-side integration with official service
+- Zod-based input validation
+- HTML parsing with Cheerio
+- UX focused on fast operational simulations
+
+👉 Repository:  
+https://github.com/MatheusLC99/ANTT-Freight-Floor-Calculator
+
+---
+
 <!--## ⚙️ Tech Stack
 
 **Languages**
