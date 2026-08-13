@@ -66,7 +66,7 @@ I worked across **requirements, architecture, data modeling, UX, development, in
 
 > 🔒 The source code is proprietary. The public repository documents the architecture, engineering decisions, and my contribution to the project.
 
-🔗 [View Engineering Case Study](https://github.com/MatheusLC99/AtenaDesk-Internal-Platform-Engineering)
+🔗 [View Project](https://github.com/MatheusLC99/AtenaDesk-Internal-Platform-Engineering)
 
 ---
 
@@ -105,7 +105,7 @@ Technical reconstruction of a corporate website for a software company.
 
 > 🔒 Production source code is proprietary. The repository documents the engineering work and technical decisions behind the project.
 
-🔗 [View Engineering Case Study](https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-study)
+🔗 [View Project](https://github.com/MatheusLC99/Corporate-Website-Engineering)
 
 ---
 
