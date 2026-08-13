@@ -139,7 +139,7 @@ I believe AI works best when combined with **clear requirements, software engine
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/matheus-longhi-cordeiro-878725b6) • [Portfolio](https://matheusdevcode.com.br) • [GitHub](https://github.com/MatheusLC99)
+[LinkedIn](www.linkedin.com/in/matheus-longhi-cordeiro) • [Portfolio](https://matheusdevcode.com.br) • [GitHub](https://github.com/MatheusLC99)
 
 ---
 
