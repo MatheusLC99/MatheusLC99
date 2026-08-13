@@ -1,127 +1,146 @@
-# Hi, I'm Matheus 👋
-### AI-Driven Product Engineer • System Builder • Creator of EMPE Framework
+# Hi, I'm Matheus Longhi 👋
 
-I design and build architecture-first software systems using AI-driven workflows.
+### Software Developer | Technical Support Engineer | AI-Assisted Development
 
-My focus is not just writing code —  
-it's creating structured engineering environments where AI becomes a reliable execution engine.
+I'm a **Computer Science graduate** with professional experience in technical support, business systems, web development, and internal tools.
 
----
+My background combines **software engineering + real-world support experience**, which helps me understand user problems, investigate root causes, and turn operational needs into practical software solutions.
 
-## 🚀 What I Do
-
-- Build full-stack platforms
-- Design internal systems and operational tools
-- Create architecture-first AI development workflows
-- Develop real production solutions focused on usability and scalability
-
-I believe the future of software engineering belongs to developers who know how to **structure AI**, not just use it.
+Currently focused on **full-stack web development and AI-assisted software engineering**.
 
 ---
 
-## 🧠 EMPE — AI Engineering Framework
+## 👨‍💻 About Me
 
-Creator of **EMPE (Structure → Map → Plan → Execute)**  
-An AI-native engineering workflow designed to transform ideas into deterministic execution pipelines.
-
-EMPE introduces:
-
-- artifact-driven context
-- layered architecture planning
-- role-based AI interaction
-- execution pipelines instead of random prompting
-
-👉 Repository:  
-https://github.com/MatheusLC99/empe-ai-driven-development
+* 💻 Building web applications and internal business tools
+* 🛠️ Experienced in technical support, troubleshooting, and business systems
+* 🧩 Turning support and operational problems into software solutions
+* 🤝 Technical reference for support teams and complex issue resolution
+* 🤖 Using AI coding agents and structured AI-assisted development workflows
+* 🎓 Bachelor's Degree in Computer Science
+* 🌎 Based in Brazil and open to opportunities
 
 ---
 
-## 🏗️ Featured Engineering Work
+## 🛠️ Tech Stack
 
-### 🧩 Internal Platform — AtenaDesk
-Full-stack internal system built to centralize operations:
+**Languages**
 
-- CRM + Helpdesk workflow
-- Knowledge base with attachments
-- Audit logging & role-based access
-- Legacy database integrations
-- Kanban lifecycle for requests
+`TypeScript` `JavaScript` `SQL`
 
-👉 Case Study:  
-https://github.com/MatheusLC99/atenadesk-internal-platform-engineering-case-study
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS`
+
+**Backend & Data**
+
+`Node.js` `Express.js` `REST APIs` `PostgreSQL` `Zod`
+
+**Engineering**
+
+`Git` `GitHub` `System Design` `Software Architecture` `Technical Documentation` `Requirements Analysis`
+
+**AI-Assisted Development**
+
+`AI Coding Agents` `Prompt Engineering` `Context Engineering` `Agentic Workflows`
 
 ---
 
-### 🌐 Corporate Website Engineering
-Complete institutional website rebuild:
+## 🚀 Featured Projects
 
-- React + TypeScript architecture
-- Full UX flow redesign
-- Shared schema validation
-- Performance and design system decisions
+### 🧩 AtenaDesk — Internal Business Platform
 
-👉 Case Study:  
-https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-study
+Internal platform created to centralize operational workflows for a software company.
+
+**Main features:**
+
+* Customer registration and management
+* CRM / Helpdesk workflows
+* Kanban request lifecycle
+* Internal knowledge base
+* Role-based access control
+* Audit logging
+* Legacy database integration
+
+I worked across **requirements, architecture, data modeling, UX, development, integrations, and business workflows**.
+
+> 🔒 The source code is proprietary. The public repository documents the architecture, engineering decisions, and my contribution to the project.
+
+🔗 [View Engineering Case Study](https://github.com/MatheusLC99/atenadesk-internal-platform-engineering-case-study)
 
 ---
 
 ### 🚛 ANTT Freight Floor Calculator
-Web application that integrates with the official ANTT calculator to simulate the minimum legal freight floor based on real transport parameters.
 
-- Next.js full-stack architecture
-- Secure server-side integration with official service
-- Zod-based input validation
-- HTML parsing with Cheerio
-- UX focused on fast operational simulations
+Full-stack web application created to simplify minimum road freight price simulations using official ANTT parameters.
 
-👉 Repository:  
-https://github.com/MatheusLC99/ANTT-Freight-Floor-Calculator
+**Tech & engineering highlights:**
 
----
+* Next.js + React + TypeScript
+* Server-side integration
+* Zod validation
+* Cookie and anti-forgery token handling
+* HTML parsing with Cheerio
+* Error and loading state handling
 
-<!--## ⚙️ Tech Stack
+> ⚠️ The original website and domain are no longer active. The project is preserved as part of my software engineering portfolio.
 
-**Languages**
-- TypeScript
-- JavaScript
-
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
-
-**Backend**
-- Node.js
-- Express
-- Prisma / Drizzle ORM
-
-**AI Workflow**
-- AI-Driven Development
-- AI-CLI
-- Structured Prompt Engineering
-
---- -->
-
-## 🧭 Engineering Philosophy
-
-Architecture before implementation.
-
-Context before prompts.
-
-Systems before features.
-
-AI is not a replacement for engineers —  
-it is an amplifier for those who design with structure.
+🔗 [View Project](https://github.com/MatheusLC99/ANTT-Freight-Floor-Calculator)
 
 ---
 
-## 📫 Connect
+### 🌐 Corporate Website Engineering
 
-- GitHub: https://github.com/MatheusLC99
-- LinkedIn: www.linkedin.com/in/matheus-longhi-cordeiro-878725b6
-- site: https://matheusdevcode.com.br
+Technical reconstruction of a corporate website for a software company.
+
+**Main contributions:**
+
+* React + TypeScript architecture
+* Modular component structure
+* Responsive interface
+* UX flow redesign
+* Shared validation
+* Design system foundations
+* Performance and maintainability improvements
+
+> 🔒 Production source code is proprietary. The repository documents the engineering work and technical decisions behind the project.
+
+🔗 [View Engineering Case Study](https://github.com/MatheusLC99/enterprise-corporate-website-engineering-case-study)
 
 ---
 
-⭐ Always building systems where humans design and AI executes.
+## 💼 Professional Background
+
+My professional experience sits at the intersection of:
+
+**Technical Support → Product Knowledge → Problem Solving → Software Development**
+
+Working directly with users and business systems has given me practical experience identifying recurring problems, understanding operational workflows, and proposing or building technical solutions.
+
+In my current work, I also act as a **technical reference for the support team**, helping with complex issues, internal processes, system behavior, and troubleshooting.
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI as an engineering productivity tool for:
+
+* Requirements analysis
+* Architecture and implementation planning
+* Coding assistance
+* Code review
+* Documentation
+* Testing and validation
+* Context management for development agents
+
+I believe AI works best when combined with **clear requirements, software engineering fundamentals, structured context, and human validation**.
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/matheus-longhi-cordeiro-878725b6) • [Portfolio](https://matheusdevcode.com.br) • [GitHub](https://github.com/MatheusLC99)
+
+---
+
+**Building practical software from real-world problems — with engineering fundamentals and AI as an accelerator.**
