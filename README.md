@@ -66,7 +66,7 @@ I worked across **requirements, architecture, data modeling, UX, development, in
 
 > 🔒 The source code is proprietary. The public repository documents the architecture, engineering decisions, and my contribution to the project.
 
-🔗 [View Engineering Case Study](https://github.com/MatheusLC99/atenadesk-internal-platform-engineering-case-study)
+🔗 [View Engineering Case Study](https://github.com/MatheusLC99/AtenaDesk-Internal-Platform-Engineering)
 
 ---
 
